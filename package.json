@@ -28,7 +28,7 @@
     "@actions/exec": "^1.0.4",
     "@actions/http-client": "^1.0.9",
     "@actions/io": "^1.0.2",
-    "@actions/tool-cache": "^1.6.1",
+    "@actions/tool-cache": "^2.0.2",
     "semver": "^7.3.4",
     "xmlbuilder2": "^2.4.0"
   },
